@@ -1,4 +1,4 @@
-# Visulization 
+# Visualisation 
 An app for visulize the bubble sort. The site allow you to control the the size of the array and generate randome numbers. After selecting the size, you can run the sort. 
 
 ## how to run 
