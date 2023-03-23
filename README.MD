@@ -5,6 +5,10 @@ An app for visulize the bubble sort. The site allow you to control the the size 
 the site built using html, css and js so you can run it in your browser.  also , you can try it with this [link](https://ahmadeleiwa.github.io/Visulization/). have fun (: 
 
 
+<div align="center">
+    <img src='image.gif' />
+</div>
+
 ## Services 
 * Randomize the array
 * Control the array size
